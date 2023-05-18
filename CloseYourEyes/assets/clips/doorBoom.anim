@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "doorBoom",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "06235bae-5713-4ebe-934f-302209b84eac"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "9e5e76e3-c39c-41bd-9486-c411538cff1f"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "d0acf616-6849-4b9c-a240-38257e9b8831"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "57b0318e-0561-4d62-8ece-6dc44a7c5f72"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "cc18999a-fde3-4ad6-ba1f-1ee6d2e3acd8"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "fb24b325-6d6a-4da6-b0a6-113b6ea519c2"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

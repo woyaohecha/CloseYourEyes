@@ -1,0 +1,63 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "boss_change",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": null
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "4df8ca2c-f08c-4dd6-a29f-01e3980d5de3"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "de116300-ff27-4350-af10-3e6b282f5d2f"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "29275196-bce6-4619-b0b1-12eddc1b621d"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "721daf61-2cff-458e-b53b-f2f954edd3cd"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "55407e4d-44c4-4e86-83f2-5e8778d3429e"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "7e163170-2d9d-4aa1-80d6-a7ab82026239"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": null
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

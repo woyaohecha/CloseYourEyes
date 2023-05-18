@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "room_die",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.7,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "dea495a1-afc0-45d8-a097-df8838b1ed85"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "9ccb1264-2bd1-4fb4-b4fa-3c1d41283182"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "4e8c48c0-a527-4f14-9e95-b7dafec124dc"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "9a850c9c-bf46-4d0a-9820-ec8829c3aa76"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "2630ac5a-4364-4440-a5d8-445ea828c049"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "939da7df-a4c0-4064-9deb-282dded26182"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": null
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

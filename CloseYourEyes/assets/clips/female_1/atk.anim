@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "female_1_atk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0da0a722-5ab5-45bc-bcda-5e8b27a5ad4c"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "e0be8f8c-214b-4973-995e-3d4d923024ef"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "dbeaa8da-ccf2-42e9-b000-4a7ac389f536"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "2c468589-9564-4bfd-ad9e-5c66626b698f"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "d2e453c7-41d9-493f-ba8a-62a7f1684ca2"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "fe6acad5-2158-4bc0-b2b0-7db770117cc3"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

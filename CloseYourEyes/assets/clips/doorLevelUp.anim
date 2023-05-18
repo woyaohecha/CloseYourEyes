@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "doorLevelUp",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "1371314c-c521-4c6d-a922-22a162a2959f"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "af9897e5-8253-4d46-ab1f-dddca1fdf568"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "c77a51f0-a60d-49ca-9398-8f75dd9b1c45"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "0c76c9f2-68ac-4afc-a30b-ea7f44ddc738"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "a786991f-93e9-4dee-b980-d8127e1df825"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "4f3a3c99-3605-4df0-8a9e-cb275f617490"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

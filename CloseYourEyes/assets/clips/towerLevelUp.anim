@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "towerLevelUp",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "25100a37-5a1d-40d1-a3b7-0a6c69b758ff"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "f1bd7cfe-2a07-4f07-a8ab-8eddbfe09943"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "bc87a756-13cd-4eaa-b15d-0edea36df0ae"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "f59d86f7-15f2-4dde-85e5-954fbf9c0713"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "ab02fa2e-afb9-4813-afcd-1a3380b8502f"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "6d358d05-b7a1-4b68-822e-66ced11e84b8"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
